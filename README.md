@@ -1,2 +1,2 @@
-AI-Driven Cashew Nut Classification
+AI-Driven Cashew Nut Classification:
 AI-Driven Cashew Nut Classification is a web application that automatically classifies cashew kernels into different commercial grades using Deep Learning models. The system allows users to upload an image of a cashew kernel and predicts its grade using two state-of-the-art deep learning models (MobileNetV2 and ResNet50). The final prediction is selected based on the model confidence, providing a fast, accurate, and automated grading solution for the cashew industry.
